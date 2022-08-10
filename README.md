@@ -1,6 +1,6 @@
 ### ⚡️ EDDIE ⚡️
 <!-- github insta medium gmail-->
-<a href="https://github.com/JustEddie"><img src="https://img.shields.io/github/watchers/JustEddie/justeddie"/>
+<a href="https://github.com/JustEddie"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/eddie_yj/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
