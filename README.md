@@ -15,4 +15,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justeddie&layout=compact)](https://github.com/justeddie/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justeddie&repo=hosting-a-website-on-github)](https://justeddie.github.io/hosting-a-website-on-github/)
