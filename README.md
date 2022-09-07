@@ -9,7 +9,7 @@
 
 ### 🧑🏻‍💻 STACKS 🧑🏻‍💻
 <!-- html css js -->
-[<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react">](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+[<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">]
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
